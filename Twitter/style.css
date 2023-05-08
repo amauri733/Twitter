@@ -1,0 +1,91 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+}
+
+
+.caixa1{
+    padding: 40px;
+    border-radius: 15px;
+    color: #ffffff; 
+    margin: 200px;
+    font-size: 14px;
+}
+
+.twitter{
+    width: 150px;
+    height: 37px;
+    color: deepskyblue;
+}
+.B1{
+
+    font-size: 15px;
+    width: 230px;
+    border-radius: 15px;
+    border-color: gray;
+
+}
+.B2{
+    font-size: 15px;
+    width: 230px;
+    border-radius: 15px;
+    border-color: gray;
+}
+.linha{
+  width: 210px;
+  margin: 12px;
+  border-color: rgb(235, 241, 247);
+  
+}
+
+.Input{
+    font-size: 15px;
+    width: 230px;
+    height: 35px;
+     border-color: gray;
+     background-color: white;
+     color: ghostwhite;
+}
+.Avançar{
+    font-size: 15px;
+    width: 230px;
+    border-color: gray;
+    border-radius: 15px;
+    background-color: rgb(39, 37, 37);
+    color: rgb(233, 227, 227);
+    
+}
+
+
+.EsqueceuSenha{
+
+    font-size: 15px;
+    width: 230px;
+    border-color: gray;
+    border-radius: 15px;
+    background-color: rgb(255, 254, 254);
+    color: black;
+    
+}
+
+.Google{
+    height: 15px;
+    
+
+}
+.titulo{
+    height: 35px;
+    color: rgb(5, 5, 5);
+    
+}
+.inscreva{
+    color: black;
+    font-size: 14px;
+}
+div{
+    background: white;
+    height: 350px;
+    
+}
+
